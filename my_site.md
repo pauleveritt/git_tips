@@ -2,6 +2,6 @@
 title: My Site
 ---
 
-It's a great site.
+It's a tremendous site.
 Lots of good tips.
 Especially, for Git.
