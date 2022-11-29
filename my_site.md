@@ -10,3 +10,4 @@ And lots of extra paragraphs.
 One day, a photo.
 That day isn't today.
 But it could be.
+Would be nice.
