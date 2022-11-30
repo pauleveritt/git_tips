@@ -8,4 +8,4 @@ Especially, for Git videos.
 
 And lots of extra paragraphs.
 Maybe a lot of ponies.
-And unicorns.
+And lots of unicorns.
