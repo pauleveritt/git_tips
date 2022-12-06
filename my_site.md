@@ -4,7 +4,7 @@ title: My Site
 
 It's a simple site.
 Lots of good tips.
-Especially, for Git videos.
+Especially, for Git and VCS videos.
 
 And lots of extra paragraphs.
 Maybe a lot of ponies.
