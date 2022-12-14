@@ -6,7 +6,7 @@ It's a simple site.
 Lots of good tips.
 Especially, for Git and VCS videos.
 
-And lots of extra paragraphs.
+And lots of extra paragraphs and sections..
 Maybe a lot of ponies.
 And lots of unicorns.
 Stay for the though-leader insight.
