@@ -2,7 +2,7 @@
 title: My Bitingly- Satirical Web Site
 ---
 
-It's a simple site.
+It's a simple site, though simple is in the eye of the beholder.
 Lots of good tips.
 Especially, for Git and VCS videos.
 
