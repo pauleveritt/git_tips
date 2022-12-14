@@ -7,7 +7,7 @@ Lots of good tips.
 Especially, for Git and VCS videos and tutorials.
 
 And lots of extra paragraphs and sections.
-Maybe a lot of ponies and unicorns.
+Maybe a lot of playful ponies and colorful unicorns.
 Stay for the thought-leader insight.
 Removed by the origin site for the last update.
 
