@@ -10,3 +10,5 @@ And lots of extra paragraphs and sections..
 Maybe a lot of ponies and unicorns.
 Stay for the thought-leader insight.
 Removed by the origin site for the last update.
+
+Looking forward to the new year.
