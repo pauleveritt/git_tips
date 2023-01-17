@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: My Groovy Site
 ---
 
 It's a simple site.
